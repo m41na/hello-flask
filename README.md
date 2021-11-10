@@ -1,2 +1,2 @@
-# hello-py
-hello python
+# hello-flask
+hello python app using the flask framework
